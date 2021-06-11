@@ -1,0 +1,13 @@
+{
+    "home": "首页",
+    "expend":"支出",
+    "income":"收入",
+    "time":"时间",
+    "amount":"金额",
+    "remark":"备注",
+    "user":"用户",
+    "category":"分类",
+    "add":"添加",
+    "delete":"删除",
+    "edit":"编辑"
+}
